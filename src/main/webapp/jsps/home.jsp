@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">welcome Landmark Technologies</h1>
+<h1 align="center">welcome to Landmark Technologies</h1>
 <h2 align="center"> 
 	       An ideal online training  platform for DevOps and Cloud Engineers. 
 	We also offer interview preparations and job assitance.
