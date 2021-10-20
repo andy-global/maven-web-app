@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">welcome to Landmark Technologies</h1>
-<h2 align="center"> 
+<h2 align="center"> supporting eBay black friday
 	       An ideal online training  platform for DevOps and Cloud Engineers. 
 	We also offer interview preparations and job assitance.
 	class 26 will run from october 2, 2021.
